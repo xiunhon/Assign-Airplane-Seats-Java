@@ -1,6 +1,6 @@
 package designclasses;
 /**
- * @author Tien N., Victoria T., Nik K.
+ * @author XiuNhon
  * includes options to assign seat's type
  * aisle, center, window
  */
