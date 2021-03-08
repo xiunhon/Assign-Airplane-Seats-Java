@@ -1,6 +1,6 @@
 package designclasses;
 /**
- * @author Tien N., Victoria T., Nik K.
+ * @author XiuNhon
  * using Map to maintain seats
  * key = row number, value = array of Seat objects
  */
