@@ -1,6 +1,6 @@
 package designclasses;
 /**
- * @author Tien N., Victoria T., Nik K.
+ * @author XiuNhon
  * Seat object includes 
  * 1/ assigned output: "." or "*"
  * 2/ seatType, using enum SeatType {AISLE, CENTER, WINDOW}
