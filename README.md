@@ -1,4 +1,4 @@
-# CECS277-DesignClass
+# Airplane Seats Assignment
 Write a program that assigns seats on an airplane.
 Assume the airplane has 20 seats in first class (5 rows of 4 seats each, separated by an aisle) and 90 seats in economy class (15 rows of 6 seats each, separated by an aisle).
 Your program should take three commands: add passengers, show seating, and quit.
